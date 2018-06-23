@@ -1,4 +1,8 @@
+
 1、将EcmsLogin.php复制到e/admin目录下。如果改名请自己到发布模块里面按顺序更改。
+
 2、其他都和在线发布模块差不多。但是一定要注意把发布模块里面的用户名改到管理员账户一样，否则无法发布。
+
 3、记得修改分类所在的模型id
+
 4、欢迎交流：https://github.com/wentong2org/huochetou-ecms-module
